@@ -1,12 +1,12 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def website_title = "智慧能源系统导论"
-@def website_descr = "综合能源系统建模、仿真、优化与控制课程网站"
-@def website_url   = "https://ai4energy.github.io/enpo811203/"
-@def title         = "智慧能源系统导论"
-@def prepath       = "enpo811203"
-@def description = """综合能源系统建模、仿真、优化与控制课程网站"""
+@def website_title = "新能源热利用"
+@def website_descr = "新能源热利用课程网站"
+@def website_url   = "https://ai4energy.github.io/neen400503/"
+@def title         = "新能源热利用"
+@def prepath       = "neen400503"
+@def description = """新能源热利用课程网站"""
 @def author        = "Mingtao Li"
 @def mintoclevel   = 2
 @def ignore = ["node_modules/", "franklin", "franklin.pub"]
@@ -17,7 +17,7 @@ Add here global page variables to use throughout your website.
 @def hero_margin_top    = "100px"
 @def add_github_view  = true
 @def add_github_star  = true
-@def github_repo      = "ai4energy/enpo811203"
+@def github_repo      = "ai4energy/neen400503"
 @def section_width = 10
 @def header_color       = "#3f6388"
 @def link_color         = "#2669DD"
