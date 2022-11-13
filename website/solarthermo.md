@@ -11,6 +11,6 @@
 
 [光谱选择性表面](/solar-surface)
 
-[太阳能热发电](solar-csp)
+[太阳能热发电](/solar-csp)
 
-[太阳能非发电热利用](solar-no-csp)
+[太阳能非发电热利用](/solar-no-csp)
